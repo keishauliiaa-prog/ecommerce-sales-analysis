@@ -14,4 +14,4 @@ Python | Pandas | Matplotlib | Seaborn | Google Colab
 
 ## 📁 Files
 - `Project_DSML_dibimbing.id.ipynb` - Full notebook
-- `Project_DSML.pptx` - LinkedIn presentation
+- `Project DSML.pptx` - LinkedIn presentation
