@@ -13,5 +13,5 @@ Python | Pandas | Matplotlib | Seaborn | Google Colab
 - Hanya 43.3% transaksi yang profitable
 
 ## 📁 Files
-- `Project_DSML_dibimbing_id.ipynb` - Full notebook
+- `Project_DSML_dibimbing.id.ipynb` - Full notebook
 - `Project_DSML.pptx` - LinkedIn presentation
